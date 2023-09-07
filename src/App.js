@@ -1,10 +1,16 @@
 import React from "react";
-import Heading from './Heading'
-
-const App = ()=>{
+import ReactDOM from "react-dom";
+import Heading from "./Heading";
+import Preloader from "./Preloader";
+function App() {
     return (
-        <Heading />
+      <>
+      <Preloader/>
+      <Heading/>
+      
+       </>
     );
-}
-
-export default App;
+  }
+  
+  export default App;
+  
