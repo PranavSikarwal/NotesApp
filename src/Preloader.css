@@ -1,0 +1,14 @@
+.preloader {
+    background-color: white;
+    background-image: url("https://www.zilliondesigns.com/blog/wp-content/uploads/note-loader.gif");
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover ;
+    z-index: 9999;
+  }
+  
