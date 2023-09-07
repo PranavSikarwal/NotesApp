@@ -1,8 +1,8 @@
 .preloader {
     background-color: white;
     background-image: url("https://www.zilliondesigns.com/blog/wp-content/uploads/note-loader.gif");
-    width: 100vw; /* Full viewport width */
-    height: 100vh; /* Full viewport height */
+    width: 100%; /* Full viewport width */
+    height: 100%; /* Full viewport height */
     position: fixed;
     top: 0;
     left: 0;
