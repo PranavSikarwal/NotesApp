@@ -1,0 +1,101 @@
+/* index.css */
+html {
+  font-size: 64.5%;
+  
+}
+body{background-color: #f6f6f6;}
+* {
+  margin: 0;
+  padding: 0;
+}
+/* Home.css */
+
+/* Navbar styles */
+nav {
+background-color: #333;
+padding: 10px 20px;
+position: fixed;
+z-index: 2;;
+}
+
+nav ul {
+list-style: none;
+padding: 0;
+margin: 0;
+display: flex;
+}
+
+nav li {
+margin-right: 20px;
+}
+
+nav a {
+color: white;
+text-decoration: none;
+}
+
+nav a:hover {
+color: lightgray;
+}
+
+/* Heading styles */
+h1 {
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+/* Card styles */
+.card {
+width: 200px;
+border: 1px solid #ccc;
+border-radius: 8px;
+padding: 10px;
+margin: 10px;
+}
+
+.card img {
+width: 100%;
+height: 200px;
+object-fit: cover;
+border-radius: 8px;
+}
+
+.card h2 {
+font-size: 16px;
+margin: 10px 0;
+}
+
+/* Counter styles */
+.counter {
+font-size: 18px;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+/* GreetingForm styles */
+.form {
+display: flex;
+flex-direction: column;
+margin-bottom: 20px;
+}
+
+.form input {
+margin-bottom: 10px;
+padding: 5px;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+
+.form button {
+padding: 8px 15px;
+background-color: #333;
+color: white;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
+.form button:hover {
+background-color: #444;
+}

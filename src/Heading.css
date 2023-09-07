@@ -1,0 +1,28 @@
+/* Heading.css */
+html {
+  font-size: 64.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}.heading_div {
+  height: 4rem;
+  width: 100%;
+  font-weight: bold;
+  padding: 1rem;
+  background: url("img1.gif") center/cover; /* Center and cover the background image */
+  border-radius: 1rem;
+  box-shadow: 0rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 4rem;
+  position: fixed;
+}
+
+h1 {color: #f9f9d8;
+  font-size: 4.5rem;
+
+
+} 
