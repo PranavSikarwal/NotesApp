@@ -6,7 +6,8 @@ html {
 * {
   margin: 0;
   padding: 0;
-}.heading_div {
+}
+.heading_div {
   height: 4rem;
   width: 100%;
   font-weight: bold;
