@@ -11,7 +11,7 @@ function App() {
     <>
       <Preloader />
       <Heading />
-      {/* <Upload/> */}
+      <Upload/>
     
     </>
   );
