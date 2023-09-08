@@ -12,7 +12,7 @@ html {
   font-weight: bold;
   padding: 1rem;
   background: url("img1.gif") center/cover; /* Center and cover the background image */
-/*   border-radius: 1rem; */
+  /* border-radius: 1rem; */
   box-shadow: 0rem 0.5rem 1rem rgba(0, 0, 0, 0.2);
   display: flex;
   justify-content: center;

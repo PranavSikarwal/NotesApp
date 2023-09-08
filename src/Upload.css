@@ -55,3 +55,59 @@
     background-color: #0056b3;
   }
   
+/* Upload.css */
+
+.upload-container {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  /* Upload.css */
+
+  
+  .upload-label {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 15px 20px; /* Adjust the padding for equal height */
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .upload-button {
+  margin-left: 2rem;
+     display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 13px 20px; /* Adjust the padding for equal height */
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+ .upload-label:hover, .upload-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .remove-button {
+    background-color: #ff3333;
+    color: #fff;
+    padding: 15px 20px; /* Adjust the padding for equal height */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .remove-button:hover {
+    background-color: #ff0000;
+  }
+  
+  
+  .upload-button:hover {
+    background-color: #0056b3;
+  }
+  
